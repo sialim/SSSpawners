@@ -1,0 +1,4 @@
+name: SialimSilkSpawners
+version: '${project.version}'
+main: me.sialim.sialimsilkspawners.SialimSilkSpawners
+api-version: '1.20'
